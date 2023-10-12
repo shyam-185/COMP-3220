@@ -1,1 +1,30 @@
-
+letters x
+whitespace  
+operators =
+whitespace  
+numbers 3
+whitespace 
+letters y
+whitespace  
+operators =
+whitespace  
+numbers 5
+whitespace 
+letters z
+whitespace  
+operators =
+whitespace  
+( (
+letters x
+whitespace  
+operators +
+whitespace  
+letters y
+) )
+whitespace  
+operators /
+whitespace  
+numbers 3
+whitespace 
+print print
+whitespace  
